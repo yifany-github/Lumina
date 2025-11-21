@@ -1,8 +1,8 @@
-# AI Bookmark Manager
+# Lumina AI Bookmark Manager
 
 **Organize and search your bookmarks intelligently with Google Gemini.**
 
-AI Bookmark Manager transforms your chaotic bookmark bar into a smart, searchable knowledge base. By leveraging Google's Gemini AI, it automatically summarizes your saved pages, generates relevant tags, and enables natural language semantic search—finding what you mean, not just what you typed.
+Lumina AI Bookmark Manager transforms your chaotic bookmark bar into a smart, searchable knowledge base. By leveraging Google's Gemini AI, it automatically summarizes your saved pages, generates relevant tags, and enables natural language semantic search—finding what you mean, not just what you typed.
 
 ## ✨ Key Features
 
