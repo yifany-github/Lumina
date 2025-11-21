@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+html,
+body,
+#root {
+  width: 400px;
+  height: 600px;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+body {
+  @apply bg-gray-50 text-gray-900;
+}
+
+@keyframes progress {
+  0% {
+    width: 0%;
+  }
+
+  50% {
+    width: 70%;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+
+.animate-progress {
+  animation: progress 2s infinite ease-in-out;
+}
