@@ -32,7 +32,3 @@ Lumina AI Bookmark Manager transforms your chaotic bookmark bar into a smart, se
 *   **Local Storage**: All bookmark data, summaries, and your API key are stored locally in your browser (`chrome.storage.local`).
 *   **Direct API Calls**: The extension communicates directly from your browser to Google's Gemini API. No middleman servers are used.
 *   **Data Usage**: Your data is only used to generate summaries and embeddings for your personal use.
-
----
-
-*Powered by Google Gemini*
